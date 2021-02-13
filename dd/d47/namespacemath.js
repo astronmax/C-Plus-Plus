@@ -14,6 +14,7 @@ var namespacemath =
     [ "ncr_modulo_p", null, [
       [ "NCRModuloP", "d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p.html", "d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p" ]
     ] ],
+    [ "binomial", "dd/d47/namespacemath.html#a4921caa440df557d6fb75f953c51d990", null ],
     [ "binomialCoeffSum", "dd/d47/namespacemath.html#ae1ca505751f5a6d3977b86372cfe75ea", null ],
     [ "largestPower", "dd/d47/namespacemath.html#afa39ec943a4836c878e1614fd89b146f", null ],
     [ "lcmSum", "dd/d47/namespacemath.html#a04065193d190d605e1f0d0d93a87e244", null ],
