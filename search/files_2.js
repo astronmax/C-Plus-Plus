@@ -6,7 +6,7 @@ var searchData=
   ['binary_5fsearch_2ecpp_3053',['binary_search.cpp',['../df/dd5/binary__search_8cpp.html',1,'']]],
   ['binary_5fsearch_5ftree_2ecpp_3054',['binary_search_tree.cpp',['../d3/d26/binary__search__tree_8cpp.html',1,'']]],
   ['binaryheap_2ecpp_3055',['binaryheap.cpp',['../de/dc3/binaryheap_8cpp.html',1,'']]],
-  ['binomial_2ecpp_3056',['binomial.cpp',['../d8/d9f/binomial_8cpp.html',1,'']]],
+  ['binomial_5fcalculate_2ecpp_3056',['binomial_calculate.cpp',['../d8/db1/binomial__calculate_8cpp.html',1,'']]],
   ['binomial_5fdist_2ecpp_3057',['binomial_dist.cpp',['../d6/db0/binomial__dist_8cpp.html',1,'']]],
   ['bisection_5fmethod_2ecpp_3058',['bisection_method.cpp',['../d7/d6a/bisection__method_8cpp.html',1,'']]],
   ['bogo_5fsort_2ecpp_3059',['bogo_sort.cpp',['../d5/ddb/bogo__sort_8cpp.html',1,'']]],
